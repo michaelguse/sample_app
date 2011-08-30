@@ -1,6 +1,8 @@
-# Sales & Marketing Incentive Solution - SAMIS: prototype development - ALl copyrights belong to Optimize Consulting, LLC
+# Sales & Marketing Incentive Solution
+## SAMIS: prototype development 
+All copyrights belong to Optimize Consulting, LLC
 
-# Intro
+### Intro
 
 This is the prototype application for the Sales & Marketing Solution for organizations operating
 products that are being sold via a retail distribution business arm. 
@@ -21,10 +23,9 @@ increase their sales of specific vehicles that are experiencing:
 - larger upcoming production volume than sales forecast predicts
 - etc.
 
-<todo>
+### Todo
 - complete overview
 - state goal/purpose of the prototype
 - setup timelines and milestones
-</todo>
 
-Copyright 2010, 2011 - Optimize Cnsulting, LLC
+Copyright 2010, 2011 - Optimize Consulting, LLC
