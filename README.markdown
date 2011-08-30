@@ -1,12 +1,6 @@
-# Ruby on Rails Tutorial: sample application
+# Sales & Marketing Incentive Solution - SAMIS: prototype development - ALl copyrights belong to Optimize Consulting, LLC
 
-This is the sample application for
-[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
-
-This is the local version of Michael Guse and this paragraph has been added purely for testing purposes.
-
-# Sales & Marketing Solution - SaMS: prototype development - ALl copyrights belong to Optimize Consulting, LLC
+# Intro
 
 This is the prototype application for the Sales & Marketing Solution for organizations operating
 products that are being sold via a retail distribution business arm. 
@@ -15,7 +9,7 @@ For example, the automotive industry in the U.S consists of the manufacturing co
 sales and marketing organization headquartered mostly on the east (European manufacturers) or the 
 west coast (Japanase manufacturers).
 
-Automotive manufaturers sell a large part off their vehicles through dealerships, which are mostly 
+Automotive manufaturers sell a large part of their vehicles through dealerships, which are mostly 
 independently owned, unless the manufacturer has "grand-fathered" dealerships.
 
 Dealerships and/or customers are being given incentives by the manufacturing company to help them 
@@ -33,3 +27,4 @@ increase their sales of specific vehicles that are experiencing:
 - setup timelines and milestones
 </todo>
 
+Copyright 2010, 2011 - Optimize Cnsulting, LLC
