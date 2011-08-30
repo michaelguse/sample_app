@@ -11,7 +11,7 @@ module ApplicationHelper
   end
 
   def logo
-     image_tag("logo.png", :alt => "SaMIS Prototype", :class => "round")
+     image_tag("logo.png", :alt => "SaMIS Prototype", :class => "round", :width => "180")
   end
 
 end
