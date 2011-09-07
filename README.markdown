@@ -1,5 +1,5 @@
 # Sales & Marketing Incentive Solution
-## SAMIS: prototype development 
+## SaMIS: prototype development 
 All copyrights belong to Optimize Consulting, LLC
 
 ### Intro
