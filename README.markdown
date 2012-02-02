@@ -28,4 +28,4 @@ increase their sales of specific vehicles that are experiencing:
 - state goal/purpose of the prototype
 - setup timelines and milestones
 
-Copyright 2010, 2011 - Optimize Consulting, LLC
+Copyright 2010, 2011, 2012 - Optimize Consulting, LLC
