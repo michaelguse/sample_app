@@ -1,5 +1,7 @@
 SampleApp::Application.routes.draw do
 
+  resources :programs
+
   # get "pages/home"
   # get "pages/contact"
   # get "pages/about" 
