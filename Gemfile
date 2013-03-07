@@ -2,6 +2,7 @@ source 'http://rubygems.org'
 
 gem 'rails', '3.2.9'
 gem 'jquery-rails'
+gem 'newrelic_rpm'
 
 # gem 'sqlite3'
 gem 'pg'
